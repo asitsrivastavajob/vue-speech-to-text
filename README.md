@@ -1,5 +1,8 @@
 # vue-speech-to-text
 
+## execute commant to download dependency
+npm install vue@next vue-router@next
+
 ## Project setup
 ```
 npm install
